@@ -1,1 +1,1 @@
-# mern_stak
+# mern_stack
